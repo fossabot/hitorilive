@@ -1,5 +1,6 @@
 # HitoriLive
 [![Build Status](https://travis-ci.org/progre/hitorilive.svg?branch=master)](https://travis-ci.org/progre/hitorilive)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fprogre%2Fhitorilive.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fprogre%2Fhitorilive?ref=badge_shield)
 
 Live broadcasting without a server for everyone.
 
@@ -30,3 +31,7 @@ $ npm run package
   - Convert with:
     - https://convertio.co/ja/png-converter/
     - https://iconverticons.com/online/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fprogre%2Fhitorilive.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fprogre%2Fhitorilive?ref=badge_large)
